@@ -1,0 +1,18 @@
+#Folders to be ignored
+drivingLog_env/
+__pycache__/
+.ipynb_checkpoints/
+
+#file types to be ignored
+*.txt
+*.pyc
+*.xlsx
+*.swp
+
+#ignore a specific file
+# drivingLogApp.py
+
+#allow a file from already ignored file type
+# !ajot_1.txt
+
+
